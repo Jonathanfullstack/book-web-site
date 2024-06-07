@@ -1,6 +1,7 @@
 <h1 align="center">Bem-vindo à Livraria Virtual</h1>
 
-![Imagem ilustrativa de uma livraria](https://exemplo.com/imagens/livraria.png)
+![Captura de tela 2024-04-17 154811](https://github.com/Jonathanfullstack/book-web-site/assets/141459667/856b6f59-0ef5-448f-85dd-810ac9cb34f7)
+raria](https://exemplo.com/imagens/livraria.png)
 
 ## :books: Livraria Virtual - Página Inicial
 
